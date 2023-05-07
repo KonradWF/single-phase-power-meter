@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "stamp_symbol")(type "Legacy")(uri "${KIPRJMOD}/stamp_symbol.lib")(options "")(descr ""))
+  (lib (name "mainboard_symbols")(type "Legacy")(uri "${KIPRJMOD}/mainboard_symbols.lib")(options "")(descr ""))
+  (lib (name "PUE_mainboard-rescue")(type "KiCad")(uri "${KIPRJMOD}/PUE_mainboard-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "schematic_symbols")(type "KiCad")(uri "${KIPRJMOD}/schematic_symbols.kicad_sym")(options "")(descr ""))
+)
